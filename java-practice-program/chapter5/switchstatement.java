@@ -133,7 +133,8 @@ public class switchstatement{
                 System.out.println("other value");
                 break;
             }
-            
+            //nested switch also here we will discuss it about in next file
         }
     }
 }
+
