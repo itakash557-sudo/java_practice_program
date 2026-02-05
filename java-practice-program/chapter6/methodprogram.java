@@ -24,11 +24,12 @@ public class methodprogram
         }
     public static void main(String []args)
     {
-        int a=10;
+        int a=10; //need to initialize the datatype inside the main and outside of main
         int b=20;
         int result=add(10,20);
-            System.out.println(result);
+        System.out.println(result);
     }    
 
 }
+
 
