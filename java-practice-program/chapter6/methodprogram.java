@@ -19,6 +19,16 @@ public class methodprogram
 //     int b=20;
 //     obj.sub(10,20);
 //    }
-    
+ static int add(int a,int b){  
+            return(a+b); //using return value it store the value then it take decision print or not 
+        }
+    public static void main(String []args)
+    {
+        int a=10;
+        int b=20;
+        int result=add(10,20);
+            System.out.println(result);
+    }    
 
 }
+
