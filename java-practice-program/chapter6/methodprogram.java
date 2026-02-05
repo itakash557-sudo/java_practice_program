@@ -14,7 +14,7 @@ public class methodprogram
 //    }
 //    public static void main(String []args)
 //    {
-//     methodprogram obj=new methodprogram();
+//     methodprogram obj=new methodprogram(); //creating the object
 //     int a=10;
 //     int b=20;
 //     obj.sub(10,20);
@@ -31,5 +31,6 @@ public class methodprogram
     }    
 
 }
+
 
 
