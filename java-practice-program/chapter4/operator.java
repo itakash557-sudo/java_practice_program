@@ -37,13 +37,14 @@ public class operator{
         //assignment operator
         int e=100;
         d+=20;
-        System.out.println(d);
+        System.out.println(d); 
         //ternary or conditional operator (short form of if else)
         String var;
         var=(a!=10)?"crt":"wrong"; //if the condition is true then print the 1st statement(crt) else print the 2nd statement
         System.out.println(var);
     }
 }
+
 
 
 
