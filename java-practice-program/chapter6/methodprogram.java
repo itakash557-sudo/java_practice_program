@@ -21,7 +21,7 @@ public class methodprogram
 //    }
  static int add(int a,int b){  
             return(a+b); //using return value it store the value then it take decision print or not 
-        }
+        } 
     public static void main(String []args)
     {
         int a=10; //need to initialize the datatype inside the main and outside of main
@@ -31,6 +31,7 @@ public class methodprogram
     }    
 
 }
+
 
 
 
