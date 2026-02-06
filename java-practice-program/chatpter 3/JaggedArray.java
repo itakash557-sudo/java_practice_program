@@ -7,7 +7,7 @@ public class jaggedarray{
 
         for (int i =0;i<a.length;i++)
         {
-            for(int j=0;j<a[i].length;j++) //a[i] is important
+            for(int j=0;j<a[i].length;j++) //a[i] is important 
             {
                 System.out.print(a[i][j]+ " ");
             }
@@ -15,3 +15,4 @@ public class jaggedarray{
         }
     }
 }
+
