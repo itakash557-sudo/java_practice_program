@@ -24,8 +24,8 @@ public class bitwise{
 
         // Step 2: Apply >>> 1 (Unsigned Right Shift)
 
-        // 👉 >>> shifts bits to the right
-        // 👉 Leftmost bits are filled with 0 (IMPORTANT)
+        // >>> shifts bits to the right
+        // Leftmost bits are filled with 0 (IMPORTANT)
 
         // Before:
         // 11111111 11111111 11111111 11111000
@@ -38,4 +38,5 @@ public class bitwise{
         // = 2147483644
     }
 }
+
 
