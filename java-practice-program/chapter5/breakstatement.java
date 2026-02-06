@@ -5,7 +5,7 @@ public class breakstatement {
             if (i == 5) {
                 break; //stop when condition is true
             }
-            System.out.println(i);
+            System.out.println(i); 
         }
     }
 }
