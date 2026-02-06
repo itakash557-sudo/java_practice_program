@@ -7,7 +7,7 @@ public class arrays //Array program
         
          for(int i=0;i<akash.length;i++)
         {
-            System.out.println(akash[i]);
+            System.out.println(akash[i]); 
         }
         // for (int value : akash)
         // {
@@ -15,4 +15,5 @@ public class arrays //Array program
         // }
     }
 }
+
 
