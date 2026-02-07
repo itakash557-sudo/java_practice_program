@@ -14,7 +14,7 @@ public class operator{
         System.out.println(a*b); //multiplication
         System.out.println(a/b); //division
         System.out.println(a%b); //modulus
-        //relational or comparative operator
+        //relational or comparative operator 
         System.out.println(a==b); //checks equal or not
         System.out.println(a>b); //greater 
         System.out.println(a<b); //lesser
@@ -44,6 +44,7 @@ public class operator{
         System.out.println(var);
     }
 }
+
 
 
 
