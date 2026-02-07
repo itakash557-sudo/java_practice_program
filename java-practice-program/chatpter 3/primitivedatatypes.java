@@ -9,7 +9,7 @@ public class primitivedatatypes {
         int c=2000000;
         System.out.println("integer "+c);
         long d=1234567890L;
-        System.out.println("long "+d);
+        System.out.println("long "+d); 
         System.out.println("Decimal point primitive types in java");
         float e=10.5f;
         System.out.println("float "+e);
@@ -29,3 +29,4 @@ public class primitivedatatypes {
         }
 //primitive datatypes in java
 }
+
