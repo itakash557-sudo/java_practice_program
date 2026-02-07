@@ -10,7 +10,7 @@ public class bitwise{
         //a << n  =  a × (2^n) leftshift formula
         System.out.println(a<<b); //4<<6 o/p:100000000 (bit shift from left to right)
         //a >> n  =  a ÷ (2^n) rightshift formula
-        System.out.println(a>>b); //4>>6 o/p:0
+        System.out.println(a>>b); //4>>6 o/p:0 
         System.out.println(a>>>b); //unsigned right shift (it produce a large int value)
 
         
@@ -38,5 +38,6 @@ public class bitwise{
         // = 2147483644
     }
 }
+
 
 
