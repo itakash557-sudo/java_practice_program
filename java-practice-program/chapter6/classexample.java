@@ -2,8 +2,8 @@ public class classexample {
     public static void main (String [] args)
     {
         class student{
-            String name; //variable 1 
-            int id; //variable 2
+            String name; //variable_1 
+            int id; //variable_2 
         }
         student st =new student(); //creating a obj 1
         st.name="Akash"; //assigning a value to the variable using object
@@ -17,6 +17,7 @@ public class classexample {
         System.out.println("Name of the Student:"+st2.name);
     }
 }
+
 
 
 
