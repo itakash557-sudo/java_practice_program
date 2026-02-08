@@ -6,7 +6,7 @@ public class methodprogram
     public static void main(String []args)
     {
         int a=10;
-        int b=20;
+        int b=20; 
         add(10,20);
     } */ 
 //    void sub(int a,int b){      //if u use void then u need to create object
@@ -31,6 +31,7 @@ public class methodprogram
     }    
 
 }
+
 
 
 
