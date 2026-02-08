@@ -8,7 +8,7 @@ public class methodprogram
         int a=10;
         int b=20; 
         add(10,20);
-    } */ 
+    } */
 //    void sub(int a,int b){      //if u use void then u need to create object
 //     System.out.println(a-b);
 //    }
@@ -31,6 +31,7 @@ public class methodprogram
     }    
 
 }
+
 
 
 
