@@ -1,6 +1,5 @@
 public class constructorprogram
 {
-
     int a;
     constructorprogram(){
         System.out.println("constrctor part"); //when u created the obj it will automatically call the constructor
