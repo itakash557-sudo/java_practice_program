@@ -1,4 +1,4 @@
-public class jaggedarray{
+public class jaggedarray {
     public static void main (String[]args)
     {
         int a[][]={{1,2,3},
