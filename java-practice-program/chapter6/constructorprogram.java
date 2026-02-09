@@ -10,6 +10,6 @@ public class constructorprogram
         constructorprogram obj=new constructorprogram();
         
         
-        System.out.println(obj.a); //error: variable a might not have been initialized
+        System.out.println(obj.a); //error: variable a might not have been initialized  
     }
 }
