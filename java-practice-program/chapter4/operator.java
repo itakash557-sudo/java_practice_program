@@ -36,6 +36,7 @@ public class operator{
         }
         //assignment operator
         int e=100;
+        System.out.println(e);
         d+=20;
         System.out.println(d); 
         //ternary or conditional operator (short form of if else)
