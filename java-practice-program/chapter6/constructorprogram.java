@@ -1,30 +1,14 @@
-class constructorprogram{
-    public static void main (String[]args)
-    {
-        System.out.println("this is constructor program");
-        box bx=new box();
-        System.out.println(bx); //once the obj is created then use it the obj atleast onces
+public class constructorprogram
+{
 
+    int a;
+    constructorprogram(){
+        System.out.println("constrctor part"); //when u created the obj it will automatically call the constructor
     }
-}
-class box
-{  // Constructor (same name as class)
-    box()
+    public static void main(String[]args)
     {
-        System.out.println("running");
-        
-    }
-}
+        constructorprogram obj=new constructorprogram();
 
-class measure{
-    double length,height,weight;
-    {
-        measure(double l ,double h,double w)
-        {
-            length=l;
-
-        }
+        System.out.println(obj.a); //error: variable a might not have been initialized
     }
-        
-    
 }
