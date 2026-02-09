@@ -1,7 +1,6 @@
 //without using this keyword
 
  // public class this_keyword{
-
 //     String a;
 //     static this_keyword obj=new this_keyword(); 
     
