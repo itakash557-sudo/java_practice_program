@@ -8,7 +8,7 @@ public class constructorprogram
     public static void main(String[]args)
     {        
         
-        constructorprogram obj=new constructorprogram();
+        constructorprogram obj=new constructorprogram(); 
         
         
         System.out.println(obj.a); //error: variable a might not have been initialized  
