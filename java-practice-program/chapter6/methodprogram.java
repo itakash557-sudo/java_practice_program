@@ -5,7 +5,7 @@ public class  methodprogram
         }
     public static void main(String []args)
     {
-        int a=10;
+        int a=10; 
         int b=20; 
         add(10,20);
     } */
@@ -31,6 +31,7 @@ public class  methodprogram
     }    
 
 }
+
 
 
 
