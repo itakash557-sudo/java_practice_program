@@ -13,10 +13,11 @@ public class classexample {
 
         //object two
         student st2=new student(); //creating a another object
-        st2.name="developer";
+        st2.name="developer"; 
         System.out.println("Name of the Student:"+st2.name);
     }
 }
+
 
 
 
