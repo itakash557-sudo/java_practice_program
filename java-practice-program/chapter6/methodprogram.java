@@ -1,4 +1,4 @@
-public class methodprogram
+public class  methodprogram
 {
     /* static void add(int a,int b){  //if u use static u don't need to create a object
             System.out.println(a+b);
@@ -31,6 +31,7 @@ public class methodprogram
     }    
 
 }
+
 
 
 
