@@ -9,7 +9,7 @@ public class classexample {
         st.name="Akash"; //assigning a value to the variable using object
         st.id=002;  
         System.out.println("Name of the Student:"+st.name); //st.name need to but the obj name because u r in a main class it may have name obj
-        System.out.println("Student id:"+st.id);
+        System.out.println("Student id:"+st.id); 
 
         //object two
         student st2=new student(); //creating a another object
@@ -17,6 +17,7 @@ public class classexample {
         System.out.println("Name of the Student:"+st2.name);
     }
 }
+
 
 
 
