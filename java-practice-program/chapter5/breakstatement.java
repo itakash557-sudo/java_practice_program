@@ -7,6 +7,6 @@ public class breakstatement {
                 break; //stop when condition is true
                        }
             System.out.println(i); 
-        } 
+        }
     }
 }
