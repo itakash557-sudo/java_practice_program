@@ -6,6 +6,7 @@ public class continuestatement {
                 continue; //skip the current iteration
             }
             System.out.println(i);
+            
         }
     }
 }
