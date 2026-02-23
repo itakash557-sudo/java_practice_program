@@ -1,6 +1,11 @@
 public class bitwise{
     public static void main (String[]args) 
     {
+
+
+
+
+
         
         int a=4; //0100
         int b=6; //0110
@@ -39,6 +44,7 @@ public class bitwise{
         // = 2147483644
     }
 }
+
 
 
 
