@@ -1,12 +1,6 @@
 public class bitwise{
     public static void main (String[]args) 
-    {
-
-
-
-
-
-        
+    {        
         int a=4; //0100
         int b=6; //0110
         System.out.println(a & b); //0100
