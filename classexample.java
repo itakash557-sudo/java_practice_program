@@ -1,6 +1,8 @@
 public class classexample { 
     public static void main (String [] args)
     { 
+
+
         class student{
             String name; //variable_1  
             int id; //variable_2 
